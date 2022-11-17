@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="hynnet.json.lib" type="repository">
+    <properties maven-id="com.hynnet:json-lib:2.4" />
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/json-lib-2.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

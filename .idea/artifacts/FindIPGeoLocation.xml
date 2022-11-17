@@ -1,0 +1,12 @@
+<component name="ArtifactManager">
+  <artifact name="FindIPGeoLocation">
+    <output-path>$PROJECT_DIR$/out/artifacts/FindIPGeoLocation</output-path>
+    <root id="root">
+      <element id="archive" name="FindIPGeoLocation.jar">
+        <element id="module-output" name="FindIPGeoLocation" />
+      </element>
+      <element id="library" level="project" name="hynnet.json.lib" />
+      <element id="library" level="project" name="commons.io" />
+    </root>
+  </artifact>
+</component>
