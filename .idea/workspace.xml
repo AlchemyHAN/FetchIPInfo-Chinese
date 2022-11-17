@@ -6,27 +6,7 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="08e757a6-70de-4fa5-83aa-0227bf18975c" name="变更" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/FindIPGeoLocation.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/hynnet_json_lib.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/FindIPGeoLocation.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/access.log.Chinese" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/commons-io-2.11.0.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/FileListener.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/exportLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getIpGeolocation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/getLog.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/matchIP.java" afterDir="false" />
-    </list>
+    <list default="true" id="08e757a6-70de-4fa5-83aa-0227bf18975c" name="变更" comment="2.0" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -92,8 +72,16 @@
       <workItem from="1668573818058" duration="2387000" />
       <workItem from="1668576820274" duration="15417000" />
       <workItem from="1668668449936" duration="623000" />
-      <workItem from="1668700637662" duration="7209000" />
+      <workItem from="1668700637662" duration="7584000" />
     </task>
+    <task id="LOCAL-00001" summary="2.0">
+      <created>1668708023880</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1668708023880</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +100,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="2.0" />
+    <option name="LAST_COMMIT_MESSAGE" value="2.0" />
   </component>
 </project>
